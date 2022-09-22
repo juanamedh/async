@@ -11,3 +11,9 @@ console.log(calc(2, 2, sum));
 setTimeout(() => {
     console.log("Helo, Javascript!")
 }, 5000);
+
+function greeting(name) {
+    console.log(`Hello, ${name}!`);
+}
+// function, timeout, funtion's args
+setTimeout(greeting, 2000, 'Juan Amedh');
