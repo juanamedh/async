@@ -11,5 +11,8 @@
     "asynchronisme"
   ],
   "author": "Juan Amedh Sanchez juanamedh@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
